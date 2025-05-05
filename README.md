@@ -26,7 +26,7 @@
 
 ## 📱 Featured Projects
 
-✨ [**Cryptocurrency App**](https://github.com/vaibhavporwal01/your-crypto-app-repo)  
+✨ [**Cryptocurrency App**](https://github.com/vaibhavporwal01/CryptoCurrencyApp)
 🪙 A Clean Architecture Android app using **MVVM** and **Retrofit**. Shows a live list of cryptocurrencies and opens a detailed view on click.  
 
 ✨ [**CodeSeVyapaar**](https://github.com/vaibhavporwal01/CodeSeVyapaar)  
