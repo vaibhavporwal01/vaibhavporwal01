@@ -30,7 +30,7 @@
 🪙 A Clean Architecture Android app using **MVVM** and **Retrofit**. Shows a live list of cryptocurrencies and opens a detailed view on click.  
 
 ✨ [**CodeSeVyapaar**](https://github.com/vaibhavporwal01/CodeSeVyapaar)  
-🏬 Hackathon-winning app — building digital commerce tools using ONDC APIs.
+🏬 Hackathon app — building digital commerce tools using ONDC APIs.
 
 ✨ [**Unit Converter App**](https://github.com/vaibhavporwal01/UnitConvertorBasicApp)  
 📏 Kotlin-based Android app for unit conversion with a modern UI using **Jetpack Compose**.
