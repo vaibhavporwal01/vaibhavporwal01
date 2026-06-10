@@ -1,68 +1,152 @@
-<h1 align="center">Hey 👋, I'm Vaibhav Porwal</h1>
-<h3 align="center">Android Developer | CSE Student | Passionate Problem Solver</h3>
+<div align="center">
+
+# Hi, I'm Vaibhav Porwal
+
+
+**Backend & Full-Stack Developer building AI-integrated products and scalable systems**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vaibhavporwal01.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-porwal-4b219028a/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Vaibhavporwal01/)
+
+</div>
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-- 🎓 I'm a **Computer Science Engineering** student with a strong foundation in Java, Kotlin, and DSA.
-- 📱 I love building **Android apps** using **Clean Architecture**, **MVVM**, and **Jetpack Compose**.
-- 🌱 Currently exploring **system design**, **API integration**, and **full-stack tools** like Firebase & PostgreSQL.
-- ☁️ I have a **basic understanding of cloud platforms** like **Google Cloud Platform (GCP)** and **Microsoft Azure**, and I'm familiar with deploying services and working in their environments.
-- 🚀 Always striving to solve real-world problems and grow through hands-on learning.
+I build AI-integrated applications, scalable backend systems, and modern full-stack products.
 
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,cpp,androidstudio" height="45" alt="Kotlin Java C++ Android Studio"/>
-  <img src="https://skillicons.dev/icons?i=html,css" height="45" alt="HTML CSS"/>
-  <img src="https://skillicons.dev/icons?i=firebase,mysql,postgres" height="45" alt="Firebase MySQL PostgreSQL"/>
-  <img src="https://skillicons.dev/icons?i=gcp,azure" height="45" alt="Google Cloud Azure"/>
-</p>
+- B.Tech CSE @ Gautam Buddha University (2027)
+- AWS Certified Cloud Practitioner
+- Founder & Captain — AWS Student Builder Group
+- Experience with GenAI applications, RAG pipelines, backend systems, and Android development
+- Interested in AI/GenAI Engineering, Backend Systems, and Android Development
 
 ---
 
-## 📱 Featured Projects
+# Tech Stack
 
-✨ [**Cryptocurrency App**](https://github.com/vaibhavporwal01/CryptoCurrencyApp)
-🪙 A Clean Architecture Android app using **MVVM** and **Retrofit**. Shows a live list of cryptocurrencies and opens a detailed view on click.  
+### AI / GenAI
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-✨ [**CodeSeVyapaar**](https://github.com/vaibhavporwal01/CodeSeVyapaar)  
-🏬 Hackathon app — building digital commerce tools using ONDC APIs.
+### Full-Stack
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
 
-✨ [**Unit Converter App**](https://github.com/vaibhavporwal01/UnitConvertorBasicApp)  
-📏 Kotlin-based Android app for unit conversion with a modern UI using **Jetpack Compose**.
+### Android
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=android&logoColor=white)
 
-✨ [**Shopping List App**](https://github.com/vaibhavporwal01/MyShoppingListApp)  
-🛒 Compose-based app to manage shopping items with add/delete functionality.
+### Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavporwal01&theme=radical&hide_border=true" alt="GitHub Streak"/>
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=vaibhavporwal01&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavporwal01&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/vaibhav-porwal-4b219028a/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-  </a>
-  <a href="mailto:vaibhavporwal135@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
-  </a>
-</p>
+### Cloud
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ---
 
-> “Great developers never stop learning. Write code. Read code. Ask questions. Build things.” 🚀
+# Featured Projects
+
+## AI / GenAI
+
+| Project | Description | Stack |
+|----------|-------------|-------|
+| [VedaAI](https://github.com/vaibhavporwal01/) | AI-powered assessment generation platform with real-time task processing and automated question generation | Next.js · Node.js · Redis · BullMQ · MongoDB · Gemini API |
+| [RAG Chatbot Pipeline](https://github.com/vaibhavporwal01/) | Retrieval-Augmented Generation pipeline with semantic search and context-aware responses | LangChain · OpenAI API · PostgreSQL · FAISS |
+| [Personal AI Agent](https://github.com/vaibhavporwal01/) | LLM-powered workflow automation and browser interaction system | Python · Gemini API · browser-use |
+| [OpenAI Healthcare Chatbot](https://github.com/vaibhavporwal01/) | Healthcare-focused chatbot with document ingestion and semantic retrieval | OpenAI API · Node.js · PostgreSQL |
+| [DermAI Pro](https://github.com/vaibhavporwal01/) | Skin disease classification prototype using CNN models and OpenCV inference | Python · OpenCV · CNN · Flask |
+
+---
+
+## Full-Stack Web
+
+| Project | Description | Stack |
+|----------|-------------|-------|
+| [Mini LinkedIn Clone](https://github.com/vaibhavporwal01/) | Full-stack social platform with authentication and real-time interactions | Next.js · Node.js · PostgreSQL · JWT |
+| [CodeSeVyappar](https://github.com/vaibhavporwal01/) | Seller onboarding platform built during ONDC × IIT Delhi Hackathon | React.js · Node.js · REST APIs |
+| [Community Website](https://ciaancybertechproject.vercel.app/) | Responsive community platform with optimized frontend performance | React.js · Node.js |
+
+---
+
+## Android
+
+| Project | Description | Stack |
+|----------|-------------|-------|
+| [Crypto Tracker App](https://github.com/vaibhavporwal01/CryptoCurrencyApp) | Real-time cryptocurrency tracking application built with modern Android architecture | Kotlin · Retrofit · Jetpack Compose · Hilt |
+| [LiveGraph](https://github.com/vaibhavporwal01/AL-App-Assignment) | IoT analytics app with real-time graph streaming and anomaly detection | Kotlin · Jetpack Compose · StateFlow |
+| [AR Drill Visualizer](https://github.com/vaibhavporwal01/) | ARCore-based Android app with plane detection and 3D object placement | Kotlin · ARCore · Jetpack Compose |
+
+---
+
+## Backend Systems
+
+| Project | Description | Stack |
+|----------|-------------|-------|
+| [InsureAI](https://github.com/vaibhavporwal01/) | Insurance management platform built with Spring Boot and PostgreSQL | Spring Boot · Hibernate · PostgreSQL |
+| [AutomatingApp](https://github.com/vaibhavporwal01/) | Workflow automation platform integrating APIs, scheduling, and backend task execution | Java · Spring Boot · PostgreSQL |
+
+---
+
+# Experience
+
+- Infosys Springboard — Virtual Intern *(Jan 2026 – Mar 2026)*
+- HPCL-Mittal Energy Ltd (HMEL) — Software Intern *(Jun 2025 – Jul 2025)*
+- GBU Samarth Project — Software Intern *(Jan 2025 – Mar 2025)*
+
+---
+
+# Leadership
+
+- Founder & Leader — AWS Student Builder Group(Former AWS Cloud Club)
+- Android Development Lead — MLSA GBU
+- Technical Lead — GDSC GBU
+
+---
+
+# Certifications
+
+| Certification | Issuer |
+|--------------|--------|
+| AWS Certified Cloud Practitioner | Amazon Web Services |
+| Advanced Automation Professional | Automation Anywhere |
+| Azure Fundamentals | Microsoft |
+| Generative AI Arcade | Google |
+| GCP Foundations | Google |
+
+---
+
+# GitHub Stats
+
+<div align="center">
+
+![Vaibhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaibhavporwal01&show_icons=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavporwal01&layout=compact&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+**Open to AI/GenAI · Backend Engineering · Android Development internships**
+
+📩 vaibhavporwal135@gmail.com
+
+</div>
+```
