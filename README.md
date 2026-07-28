@@ -7,7 +7,6 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vaibhavporwal01.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-porwal-4b219028a/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Vaibhavporwal01/)
 
 </div>
 
@@ -133,8 +132,6 @@ I build AI-integrated applications, scalable backend systems, and modern full-st
 # GitHub Stats
 
 <div align="center">
-
-![Vaibhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaibhavporwal01&show_icons=true&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavporwal01&layout=compact&hide_border=true)
 
