@@ -90,7 +90,6 @@ Founder & Captain, **AWS Student Builder Group @ GBU** — grew a 600+ member co
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=vercel&logoColor=white)](https://vaibhavporwal01.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-porwal-4b219028a/)
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vaibhavporwal135@gmail.com)
 
