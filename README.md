@@ -69,7 +69,7 @@ Next.js 15 + Node.js, MongoDB for persistence, BullMQ/Redis for background jobs,
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vaibhavporwal01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="GitHub Stats" />
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavporwal01&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak" />
 
 </div>
