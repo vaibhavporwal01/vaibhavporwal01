@@ -1,149 +1,97 @@
 <div align="center">
 
-# Hi, I'm Vaibhav Porwal
-
-
-**Backend & Full-Stack Developer building AI-integrated products and scalable systems**
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vaibhavporwal01.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-porwal-4b219028a/)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Building+multi-agent+GenAI+systems;Scaling+backend+infra+that+doesn't+fall+over;Java+%7C+LangChain+%7C+AWS+%7C+Distributed+Systems" alt="Typing SVG" />
 
 </div>
 
----
-
-## About Me
-
-I build AI-integrated applications, scalable backend systems, and modern full-stack products.
-
-- B.Tech CSE @ Gautam Buddha University (2027)
-- AWS Certified Cloud Practitioner
-- Founder & Captain — AWS Student Builder Group
-- Experience with GenAI applications, RAG pipelines, backend systems, and Android development
-- Interested in AI/GenAI Engineering, Backend Systems, and Android Development
-
----
-
-# Tech Stack
-
-### AI / GenAI
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-
-### Full-Stack
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
-
-### Android
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=android&logoColor=white)
-
-### Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
-
-### Cloud
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
----
-
-# Featured Projects
-
-## AI / GenAI
-
-| Project | Description | Stack |
-|----------|-------------|-------|
-| [VedaAI](https://github.com/vaibhavporwal01/) | AI-powered assessment generation platform with real-time task processing and automated question generation | Next.js · Node.js · Redis · BullMQ · MongoDB · Gemini API |
-| [RAG Chatbot Pipeline](https://github.com/vaibhavporwal01/) | Retrieval-Augmented Generation pipeline with semantic search and context-aware responses | LangChain · OpenAI API · PostgreSQL · FAISS |
-| [Personal AI Agent](https://github.com/vaibhavporwal01/) | LLM-powered workflow automation and browser interaction system | Python · Gemini API · browser-use |
-| [OpenAI Healthcare Chatbot](https://github.com/vaibhavporwal01/) | Healthcare-focused chatbot with document ingestion and semantic retrieval | OpenAI API · Node.js · PostgreSQL |
-| [DermAI Pro](https://github.com/vaibhavporwal01/) | Skin disease classification prototype using CNN models and OpenCV inference | Python · OpenCV · CNN · Flask |
-
----
-
-## Full-Stack Web
-
-| Project | Description | Stack |
-|----------|-------------|-------|
-| [Mini LinkedIn Clone](https://github.com/vaibhavporwal01/) | Full-stack social platform with authentication and real-time interactions | Next.js · Node.js · PostgreSQL · JWT |
-| [CodeSeVyappar](https://github.com/vaibhavporwal01/) | Seller onboarding platform built during ONDC × IIT Delhi Hackathon | React.js · Node.js · REST APIs |
-| [Community Website](https://ciaancybertechproject.vercel.app/) | Responsive community platform with optimized frontend performance | React.js · Node.js |
-
----
-
-## Android
-
-| Project | Description | Stack |
-|----------|-------------|-------|
-| [Crypto Tracker App](https://github.com/vaibhavporwal01/CryptoCurrencyApp) | Real-time cryptocurrency tracking application built with modern Android architecture | Kotlin · Retrofit · Jetpack Compose · Hilt |
-| [LiveGraph](https://github.com/vaibhavporwal01/AL-App-Assignment) | IoT analytics app with real-time graph streaming and anomaly detection | Kotlin · Jetpack Compose · StateFlow |
-| [AR Drill Visualizer](https://github.com/vaibhavporwal01/) | ARCore-based Android app with plane detection and 3D object placement | Kotlin · ARCore · Jetpack Compose |
-
----
-
-## Backend Systems
-
-| Project | Description | Stack |
-|----------|-------------|-------|
-| [InsureAI](https://github.com/vaibhavporwal01/) | Insurance management platform built with Spring Boot and PostgreSQL | Spring Boot · Hibernate · PostgreSQL |
-| [AutomatingApp](https://github.com/vaibhavporwal01/) | Workflow automation platform integrating APIs, scheduling, and backend task execution | Java · Spring Boot · PostgreSQL |
-
----
-
-# Experience
-
-- Infosys Springboard — Virtual Intern *(Jan 2026 – Mar 2026)*
-- HPCL-Mittal Energy Ltd (HMEL) — Software Intern *(Jun 2025 – Jul 2025)*
-- GBU Samarth Project — Software Intern *(Jan 2025 – Mar 2025)*
-
----
-
-# Leadership
-
-- Founder & Leader — AWS Student Builder Group(Former AWS Cloud Club)
-- Android Development Lead — MLSA GBU
-- Technical Lead — GDSC GBU
-
----
-
-# Certifications
-
-| Certification | Issuer |
-|--------------|--------|
-| AWS Certified Cloud Practitioner | Amazon Web Services |
-| Advanced Automation Professional | Automation Anywhere |
-| Azure Fundamentals | Microsoft |
-| Generative AI Arcade | Google |
-| GCP Foundations | Google |
-
----
-
-# GitHub Stats
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavporwal01&layout=compact&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
-
-**Open to AI/GenAI · Backend Engineering · Android Development internships**
-
-📩 vaibhavporwal135@gmail.com
-
-</div>
+```bash
+$ whoami
+> Vaibhav Porwal — Final-year CSE @ Gautam Buddha University
+> Obsessed with: agentic pipelines, real-time voice AI, backend that scales without babysitting
 ```
+
+## About
+
+I build two kinds of things — systems that reason (agents, RAG pipelines, LLM orchestration) and systems that hold up under load (queues, caching, real-time infra). Most of what's below sits at the intersection: AI features that actually ship on production-grade backends, not notebooks.
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="3px">
+
+## GenAI & Agentic Systems
+
+### [AdvRAG](https://github.com/vaibhavporwal01/AdvRAG)
+![Repo](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/vaibhavporwal01/AdvRAG&label=%E2%AD%90%20stars&query=$.stargazers_count&color=00D9FF&style=flat-square) ![Lang](https://img.shields.io/badge/LangGraph-Multi--Agent-1C3C3C?style=flat-square)
+
+Multi-agent RAG pipeline.
+- Multi-agent orchestration via LangChain + LangGraph — separate agents for retrieval, reranking, and synthesis instead of one monolithic chain.
+- FAISS-backed vector store with custom chunking and embedding strategy for retrieval accuracy.
+- Deployed on AWS (S3 for storage, ECS for compute) — not just a local demo.
+
+### Enterprise AI Voice Interviewer
+![Stack](https://img.shields.io/badge/LiveKit-Deepgram-blueviolet?style=flat-square) ![State](https://img.shields.io/badge/XState-v5-2C3E50?style=flat-square)
+
+Full-duplex voice interview platform, built and iterated on extensively.
+- **Multi-brain architecture**: Claude Sonnet runs the live conversation ("voice brain"), Claude Haiku runs supervision/scoring in parallel — split by cost and latency needs, not just capability.
+- Real-time audio via **LiveKit** (transport) + **Deepgram** (STT), with **XState v5** finite-state machines managing interview flow so the conversation can't drift into an undefined state.
+- **Redis + BullMQ** for async job processing (scoring, report generation), **pgvector** for long-term interview memory.
+- Shipped alongside full HLD/LLD documentation, a cost model, and a client-facing architecture proposal — treated as a real system, not a hackathon prototype.
+
+**Other GenAI work**
+- **VedaAI** — Gemini API integration with Socket.IO for real-time responses, backed by BullMQ/Redis job queues.
+- **Signalrank** — hybrid BM25 + embedding candidate-ranking engine, CPU-only, built to rank 100K candidates without GPU cost (Redrob AI Hackathon).
+- Prompt engineering, agent tooling strategies (Gemini Pro + Antigravity), and browser-automation agents.
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="3px">
+
+## ⚙️ Backend & Scalable Systems
+
+### Fullstack Postman Clone
+![Stack](https://img.shields.io/badge/Next.js-FastAPI-000000?style=flat-square)
+
+Next.js frontend + FastAPI backend + SQLite, deployed split across Vercel + Render.
+- Multi-agent tooling strategy for request generation and validation, not just a CRUD wrapper.
+
+### VedaAI Platform
+![Stack](https://img.shields.io/badge/BullMQ-Redis-DC382D?style=flat-square) ![DB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+Next.js 15 + Node.js, MongoDB for persistence, BullMQ/Redis for background jobs, deployed on Vercel + Render.
+
+**Core backend toolkit**: Spring Boot, REST APIs, Microservices, Node.js, PostgreSQL, MySQL, MongoDB — plus AWS (EC2, S3, IAM, CloudWatch) for infra that isn't just "works on my machine."
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="3px">
+
+<div align="center">
+
+### 🛠️ Stack
+
+<img src="https://skillicons.dev/icons?i=java,python,spring,nodejs,nextjs,redis,aws,postgres,docker,kotlin,git&theme=dark" alt="Skills" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=vaibhavporwal01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavporwal01&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak" />
+
+</div>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/vaibhavporwal01/vaibhavporwal01/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="3px">
+
+## 🚀 Leadership
+
+Founder & Captain, **AWS Student Builder Group @ GBU** — grew a 600+ member community, ran hands-on EC2/S3/CloudWatch workshops from the ground up.
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="3px">
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=vercel&logoColor=white)](https://vaibhavporwal01.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-porwal-4b219028a/)
+[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vaibhavporwal135@gmail.com)
+
+</div>
