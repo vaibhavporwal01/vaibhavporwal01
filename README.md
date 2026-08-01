@@ -12,7 +12,7 @@ $ whoami
 
 ## About
 
-I build two kinds of things — systems that reason (agents, RAG pipelines, LLM orchestration) and systems that hold up under load (queues, caching, real-time infra). Most of what's below sits at the intersection: AI features that actually ship on production-grade backends, not notebooks.
+I build two kinds of things — systems that reason (AI agents, RAG pipelines, LLM orchestration) and systems that hold up under load (queues, caching, real-time infra). Most of what's below sits at the intersection: AI features that actually ship on production-grade backends, not notebooks.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="3px">
 
